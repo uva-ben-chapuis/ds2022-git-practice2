@@ -1,1 +1,1 @@
-# ds2022-git-practice
+A simple Python script
